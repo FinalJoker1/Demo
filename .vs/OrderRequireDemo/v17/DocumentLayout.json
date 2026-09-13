@@ -1,0 +1,823 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\Unity\\OrderRequireDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|d:\\program\\unity\\orderrequiredemo\\assets\\scripts\\tradingsystem\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|d:\\program\\unity\\orderrequiredemo\\assets\\scripts\\ui\\orderlistuiagentmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\orderlistuiagentmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\orderlistuiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\orderlistuiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\productunpassedui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\productunpassedui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\escui\\escui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\escui\\escui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\escui\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\escui\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\server\\playeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\playeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\server\\mouseagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\mouseagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\workbenchsystem\\coffeeworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\workbenchsystem\\coffeeworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\menuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\orderdisplayframemono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\orderdisplayframemono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\orderdisplayframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\orderdisplayframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\CoffeeMaker_Data\\RuntimeInitializeOnLoads.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tradingsystem\\producttrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\producttrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tool\\orderlybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool\\orderlybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tradingsystem\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tradingsystem\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\customer\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customer\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\workbenchsystem\\makecoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\workbenchsystem\\makecoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\orderdisplayframeonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\orderdisplayframeonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\rechoosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\rechoosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\server\\playerinfoserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\playerinfoserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\streamingassets\\treeinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\treeinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\server\\showorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\showorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\rawmaterialselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\rawmaterialselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\resources\\shader\\rawmaterialcup.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\shader\\rawmaterialcup.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\iselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\iselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tool\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tradingsystem\\itradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\itradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\gotransformagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\gotransformagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\rawmaterialmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\rawmaterialmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\server\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\global\\assetsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\global\\assetsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\escui\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\escui\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tool\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\framebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\framebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\global\\orderdisplayframemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\global\\orderdisplayframemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\customer\\customeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customer\\customeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\tradingsystem\\icurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tradingsystem\\icurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\igotransformagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\igotransformagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\betweencustomerandserver\\rawmaterialassetsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\betweencustomerandserver\\rawmaterialassetsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|D:\\Program\\Unity\\OrderRequireDemo\\assets\\scripts\\ui\\finishcookbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D31786-BCE3-8F69-2453-23B58BDC43A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\finishcookbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\Workbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MakerSystem\\Workbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\MakeCoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MakerSystem\\MakeCoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\IProduct.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\IProduct.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\IProduct.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:30:00.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUnpassedUI.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ProductUnpassedUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ProductUnpassedUI.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ProductUnpassedUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ProductUnpassedUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T07:49:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\PlayerAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\PlayerAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\PlayerAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\PlayerAgent.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAIwOIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:00:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quit.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\Quit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ESCUI\\Quit.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\Quit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ESCUI\\Quit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T15:19:07.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuUIController.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\MenuUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuUIController.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\MenuUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuUIController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:30:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoffeeWorkbench.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\WorkbenchSystem\\CoffeeWorkbench.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkbenchSystem\\CoffeeWorkbench.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\WorkbenchSystem\\CoffeeWorkbench.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkbenchSystem\\CoffeeWorkbench.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA1wCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T05:43:51.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDisplayFrame.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OrderDisplayFrame.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OrderDisplayFrame.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wCgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:47:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ESCUI.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\ESCUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ESCUI\\ESCUI.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\ESCUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ESCUI\\ESCUI.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T15:46:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderListUIAgentMono.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderListUIAgentMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OrderListUIAgentMono.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderListUIAgentMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OrderListUIAgentMono.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:59:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderListUIAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderListUIAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OrderListUIAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderListUIAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OrderListUIAgent.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T07:07:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RuntimeInitializeOnLoads.json",
+              "DocumentMoniker": "D:\\UnityProject\\CoffeeMaker_Data\\RuntimeInitializeOnLoads.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\UnityProject\\CoffeeMaker_Data\\RuntimeInitializeOnLoads.json",
+              "ToolTip": "D:\\UnityProject\\CoffeeMaker_Data\\RuntimeInitializeOnLoads.json",
+              "RelativeToolTip": "..\\..\\..\\UnityProject\\CoffeeMaker_Data\\RuntimeInitializeOnLoads.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-13T06:47:29.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T07:04:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MouseAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\MouseAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\MouseAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\MouseAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\MouseAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:18:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductTrade.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ProductTrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\ProductTrade.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ProductTrade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\ProductTrade.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:49:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Money.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\Money.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\Money.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\Money.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\Money.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:28:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDisplayFrameMono.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrameMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OrderDisplayFrameMono.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrameMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OrderDisplayFrameMono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:00:07.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RawMaterial.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterial.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T12:33:16.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trader.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\Trader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\Trader.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\Trader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\Trader.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:48:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerInfoSerialization.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\PlayerInfoSerialization.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\PlayerInfoSerialization.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\PlayerInfoSerialization.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\PlayerInfoSerialization.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T05:33:06.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderlyBuilder.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\OrderlyBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tool\\OrderlyBuilder.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\OrderlyBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tool\\OrderlyBuilder.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T04:55:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MakeCoffee.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\WorkbenchSystem\\MakeCoffee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkbenchSystem\\MakeCoffee.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\WorkbenchSystem\\MakeCoffee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkbenchSystem\\MakeCoffee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:34:28.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\Product.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\Product.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\Product.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\Product.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv0wAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:52:01.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Customer\\Client.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Customer\\Client.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Customer\\Client.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Customer\\Client.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv1oAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:09:11.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDisplayFrameOnClick.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrameOnClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OrderDisplayFrameOnClick.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\OrderDisplayFrameOnClick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OrderDisplayFrameOnClick.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:12:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReChooseButton.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ReChooseButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ReChooseButton.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ReChooseButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ReChooseButton.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:32:19.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "treeInfo.txt",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\StreamingAssets\\treeInfo.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\treeInfo.txt",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\StreamingAssets\\treeInfo.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\treeInfo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD4CQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-13T05:18:06.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RawMaterialSelect.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialSelect.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialSelect.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T11:47:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISelect.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\ISelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\ISelect.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\ISelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\ISelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T11:46:38.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainThreadDispatcher.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\MainThreadDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tool\\MainThreadDispatcher.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\MainThreadDispatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tool\\MainThreadDispatcher.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:10:20.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShowOrder.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\ShowOrder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\ShowOrder.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\ShowOrder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\ShowOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:48:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RawMaterialCup.shader",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Resources\\Shader\\RawMaterialCup.shader",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Shader\\RawMaterialCup.shader",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Resources\\Shader\\RawMaterialCup.shader",
+              "RelativeToolTip": "Assets\\Resources\\Shader\\RawMaterialCup.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-12T12:02:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GOTransformAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\GOTransformAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\GOTransformAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\GOTransformAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\GOTransformAgent.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAywCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:23:31.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RawMaterialMono.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialMono.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialMono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:07:19.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITradingSystem.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ITradingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\ITradingSystem.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ITradingSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\ITradingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T09:03:37.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssetsLoader.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Global\\AssetsLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Global\\AssetsLoader.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Global\\AssetsLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Global\\AssetsLoader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:57:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Back.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\Back.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ESCUI\\Back.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\ESCUI\\Back.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ESCUI\\Back.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T15:40:51.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ViewController.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\ViewController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\ViewController.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Server\\ViewController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\ViewController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABIwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:42:16.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\Wallet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Wallet.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\Wallet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Wallet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:04:07.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Json.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\Json.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tool\\Json.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Tool\\Json.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tool\\Json.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:20:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrameBuilder.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\FrameBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FrameBuilder.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\FrameBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FrameBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:01:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MakeCoffee.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\MakeCoffee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakerSystem\\MakeCoffee.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\MakeCoffee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakerSystem\\MakeCoffee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:06:52.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderDisplayFrameManager.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Global\\OrderDisplayFrameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Global\\OrderDisplayFrameManager.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Global\\OrderDisplayFrameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Global\\OrderDisplayFrameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:01:55.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomerAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Customer\\CustomerAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Customer\\CustomerAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\Customer\\CustomerAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Customer\\CustomerAgent.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:09:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICurrency.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ICurrency.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TradingSystem\\ICurrency.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\TradingSystem\\ICurrency.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TradingSystem\\ICurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:24:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ts.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\ts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ts.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\ts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ts.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:29:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Workbench.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\Workbench.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakerSystem\\Workbench.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\MakerSystem\\Workbench.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakerSystem\\Workbench.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:07:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IGOTransformAgent.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\IGOTransformAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\IGOTransformAgent.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\IGOTransformAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\IGOTransformAgent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:40:23.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RawMaterialAssetsLoader.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialAssetsLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialAssetsLoader.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialAssetsLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BetweenCustomerAndServer\\RawMaterialAssetsLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:55:33.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinishCookButton.cs",
+              "DocumentMoniker": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\FinishCookButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FinishCookButton.cs",
+              "ToolTip": "D:\\Program\\Unity\\OrderRequireDemo\\Assets\\Scripts\\UI\\FinishCookButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FinishCookButton.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:10:43.095Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1412,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

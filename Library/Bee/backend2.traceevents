@@ -1,0 +1,229 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1789288167178726, "dur":14621, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167193354, "dur":72, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167193448, "dur":374, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167193840, "dur":2146, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167195988, "dur":114912, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167310901, "dur":121, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167311211, "dur":866, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1789288167194072, "dur":1920, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1789288167195997, "dur":1468, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1789288167204933, "dur":504, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1789288167205440, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1789288167205581, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1789288167205689, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1789288167206028, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1789288167206288, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1789288167206481, "dur":336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1789288167206818, "dur":328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1789288167207147, "dur":480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1789288167207659, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player924d450d-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1789288167205439, "dur":2431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1789288167208355, "dur":101127, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1789288167310141, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1789288167310141, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1789288167310319, "dur":521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1789288167194103, "dur":1915, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1789288167196039, "dur":222, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1789288167196262, "dur":1217, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1789288167198622, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1789288167200302, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1789288167201801, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167203359, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167206608, "dur":192, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1789288167204631, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167206835, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167208594, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167210112, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167211456, "dur":1602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167213072, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167214920, "dur":2423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167217405, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167219685, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1789288167222306, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1789288167224887, "dur":85985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1789288167194092, "dur":1907, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1789288167196006, "dur":244, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1789288167196250, "dur":1344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1789288167222648, "dur":1643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1789288167224302, "dur":86571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1789288167194132, "dur":1908, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1789288167196045, "dur":176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1789288167196221, "dur":1344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1789288167206608, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1789288167205532, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1789288167206755, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167208687, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167210201, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167212001, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167214407, "dur":2128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167216560, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167218923, "dur":2150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167221093, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1789288167222938, "dur":2495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1789288167225448, "dur":85456, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1789288167194123, "dur":1938, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1789288167196063, "dur":251, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1789288167196315, "dur":1264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1789288167222118, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1789288167223681, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1789288167225613, "dur":85280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1789288167194150, "dur":1906, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1789288167196059, "dur":172, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1789288167196231, "dur":1365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1789288167223356, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1789288167224713, "dur":86181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1789288167194178, "dur":1945, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1789288167196125, "dur":166, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1789288167196291, "dur":1181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1789288167198543, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1789288167200198, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1789288167201776, "dur":3030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167204830, "dur":2300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167207150, "dur":368, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167207149, "dur":370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167207527, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167208817, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167210363, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167211814, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167213287, "dur":1594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167214896, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167216720, "dur":2083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167218823, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167220909, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1789288167222961, "dur":2176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1789288167225147, "dur":85747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1789288167194211, "dur":1916, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1789288167196129, "dur":145, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1789288167196274, "dur":1211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1789288167198440, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1789288167200098, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1789288167200965, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1789288167202636, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\2022.3.42f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167202636, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167202732, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167204062, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167206673, "dur":170, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1789288167205073, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167206873, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167208819, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167210327, "dur":1592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167211938, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167213578, "dur":1806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167215424, "dur":2277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167217730, "dur":2378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167220126, "dur":2049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1789288167222194, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1789288167224075, "dur":86824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1789288167194231, "dur":1900, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1789288167196181, "dur":1337, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1789288167211479, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1789288167212411, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1789288167214071, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1789288167215804, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1789288167218086, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1789288167220290, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1789288167222543, "dur":3016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1789288167225569, "dur":85323, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1789288167194328, "dur":1808, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1789288167196136, "dur":1408, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1789288167199168, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1789288167200084, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167201764, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167206179, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167207845, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167209147, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167210618, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167212146, "dur":2773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167214952, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167216986, "dur":2159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167219164, "dur":2644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1789288167221827, "dur":10093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1789288167231929, "dur":78942, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1789288167194348, "dur":1840, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1789288167196188, "dur":1385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1789288167216126, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1789288167217281, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1789288167219490, "dur":2087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1789288167221609, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/StreamingAssets/playerInfo.txt" }}
+,{ "pid":12345, "tid":11, "ts":1789288167223068, "dur":3244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1789288167226325, "dur":84559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1789288167194373, "dur":1823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1789288167196196, "dur":1348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1789288167216383, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1789288167217436, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1789288167219540, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1789288167221641, "dur":11235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1789288167232885, "dur":77993, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1789288167194405, "dur":1798, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1789288167196203, "dur":1333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1789288167198977, "dur":780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1789288167200208, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1789288167201787, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167203902, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167204712, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167206300, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167207882, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167209148, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167210598, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167212195, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167214248, "dur":1508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167215776, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167218084, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167220411, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1789288167222450, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1789288167224118, "dur":86781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1789288167194426, "dur":1785, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1789288167196211, "dur":1312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1789288167211167, "dur":874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1789288167212074, "dur":1583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1789288167213676, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1789288167215472, "dur":2279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1789288167217765, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1789288167219830, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1789288167222162, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1789288167225554, "dur":85330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1789288167194443, "dur":1775, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1789288167196218, "dur":1250, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1789288167197792, "dur":2248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1789288167200151, "dur":3197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167203376, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167206678, "dur":183, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1789288167204835, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167206935, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167208023, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167209754, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167210919, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167212616, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167214486, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167216451, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167218699, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167220815, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1789288167222504, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1789288167222559, "dur":2642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/resources.assets" }}
+,{ "pid":12345, "tid":15, "ts":1789288167225211, "dur":85686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1789288167194459, "dur":1767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1789288167196226, "dur":1241, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1789288167198087, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/app.info" }}
+,{ "pid":12345, "tid":16, "ts":1789288167199883, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1789288167200677, "dur":336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":16, "ts":1789288167200677, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/UnityProject/CoffeeMaker/CoffeeMaker.exe" }}
+,{ "pid":12345, "tid":16, "ts":1789288167201020, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker.exe" }}
+,{ "pid":12345, "tid":16, "ts":1789288167202324, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167204330, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167205771, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167207483, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Program\\Unity\\OrderRequireDemo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167207483, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167207630, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167208899, "dur":1299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167210214, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167211746, "dur":1538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167213310, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167214979, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167216974, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167219276, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1789288167221496, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/StreamingAssets/treeInfo.txt" }}
+,{ "pid":12345, "tid":16, "ts":1789288167223081, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/UnityProject/CoffeeMaker/CoffeeMaker_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1789288167225361, "dur":85537, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1789288167313738, "dur":552, "ph":"X", "name": "ProfilerWriteOutput" }
+,
